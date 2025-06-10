@@ -1,0 +1,25 @@
+[
+  {
+    "id": "hainanese-chicken-rice",
+    "nama": "Hainanese Chicken Rice",
+    "deskripsi": "Nasi ayam khas Singapura yang gurih dan juicy banget~ 😋",
+    "gambar": "hainanese-chicken.jpg",
+    "rekomendasi_restoran": {
+      "nama": "Tian Tian Chicken Rice",
+      "lokasi": "Maxwell Food Centre, Singapore",
+      "maps_embed": "https://www.google.com/maps/embed?pb=..."
+    }
+  },
+  {
+    "id": "hainanese-chicken-rice",
+    "nama": "Hainanese Chicken Rice",
+    "deskripsi": "Nasi ayam khas Singapura yang gurih dan juicy banget~ 😋",
+    "gambar": "hainanese-chicken.jpg",
+    "rekomendasi_restoran": {
+      "nama": "Tian Tian Chicken Rice",
+      "lokasi": "Maxwell Food Centre, Singapore",
+      "maps_embed": "https://www.google.com/maps/embed?pb=..."
+    }
+  }
+]
+
