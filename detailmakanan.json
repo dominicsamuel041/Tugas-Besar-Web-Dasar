@@ -11,10 +11,21 @@
     }
   },
   {
-    "id": "hainanese-chicken-rice",
-    "nama": "Hainanese Chicken Rice",
+    "id": "laksa",
+    "nama": "Laksa Singapura",
     "deskripsi": "Nasi ayam khas Singapura yang gurih dan juicy banget~ 😋",
     "gambar": "hainanese-chicken.jpg",
+    "rekomendasi_restoran": {
+      "nama": "Tian Tian Chicken Rice",
+      "lokasi": "Maxwell Food Centre, Singapore",
+      "maps_embed": "https://www.google.com/maps/embed?pb=..."
+    }
+  },
+  {
+    "id": "chilli-crab",
+    "nama": "Chilli Crab",
+    "deskripsi": "Kepiting",
+    "gambar": "chilli-crab.jpg",
     "rekomendasi_restoran": {
       "nama": "Tian Tian Chicken Rice",
       "lokasi": "Maxwell Food Centre, Singapore",
